@@ -1,0 +1,32 @@
+.heading{
+    background: black;
+    color: brown;
+    height: 80px;
+    width: 400pxpx;
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+    margin-top: 50px;
+}
+.heading1
+{
+    background: black;
+    color: brown;
+    height: 70px;
+    width: 400pxpx;
+    text-align: center;
+    margin: auto;
+    padding-top: 40px;
+    margin-top: 50px;
+}
+#result
+{
+    background: black;
+    color: brown;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+    margin-top: 50px;
+}
